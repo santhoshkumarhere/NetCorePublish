@@ -1,0 +1,8 @@
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\NetCorePublish.exe
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\appsettings.QA.json
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\NetCorePublish.dll
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\NetCorePublish.deps.json
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\NetCorePublish.runtimeconfig.json
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\PubTmp\Out\NetCorePublish.pdb
