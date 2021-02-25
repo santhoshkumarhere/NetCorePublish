@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 namespace NetCorePublish.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("/weatherman")]
     public class WeatherForecastController : ControllerBase
     {
         public IConfiguration Configuration { get; }

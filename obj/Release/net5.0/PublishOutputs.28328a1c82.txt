@@ -6,3 +6,7 @@ C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\NetCorePublish.dll
 C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\NetCorePublish.deps.json
 C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\NetCorePublish.runtimeconfig.json
 C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\NetCorePublish.pdb
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\Newtonsoft.Json.dll
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\publish\Newtonsoft.Json.Bson.dll

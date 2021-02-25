@@ -22,3 +22,8 @@ C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\NetCorePublish.dll
 C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\ref\NetCorePublish.dll
 C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\NetCorePublish.pdb
 C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\NetCorePublish.genruntimeconfig.cache
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\SANTHOSH\NetCorePublish\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\SANTHOSH\NetCorePublish\obj\Release\net5.0\NetCorePublish.csproj.CopyComplete
